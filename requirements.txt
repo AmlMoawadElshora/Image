@@ -1,9 +1,0 @@
-gunicorn
-numpy
-pillow
-matplotlib
-torch
-torchvision
-flask
-opencv-python-headless
-
